@@ -7,4 +7,8 @@ public class DLinkList<E> {
         Node<T> next;
         Node<T> prev;
     }
+    public DLinkList addFirst(DLinkList dLinkList, Node newNode) {
+
+
+    }
 }
