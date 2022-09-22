@@ -5,7 +5,7 @@ public class Rectangle extends Shape {
     private double h;
 
     @Override
-    public double area() {
+    public  double area() {
         return w * h;
     }
 
@@ -22,6 +22,7 @@ public class Rectangle extends Shape {
         this.w = w;
         this.h = h;
     }
+
 
     /**
      * Overloaded constructor (ad-hoc polymorphism, compile-time)
