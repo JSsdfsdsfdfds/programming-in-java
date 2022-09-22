@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="agh.ii.prinjava.lab01.lst01_03.RectangleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-09-15T08:48:01" hostname="LAPTOP-0PFLUQP5" time="0.028">
+  <properties/>
+  <testcase name="testArea()" classname="agh.ii.prinjava.lab01.lst01_03.RectangleTest" time="0.028"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
